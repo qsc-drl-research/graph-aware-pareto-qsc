@@ -34,4 +34,3 @@ python main.py
 
 ## Citation
 If you use this code, please cite:
-[Add your paper's citation once published — title, authors, venue, year, DOI]
