@@ -19,6 +19,8 @@ pip install -r requirements.txt
 ## Dataset
 This project uses the QWS dataset (Al-Masri and Mahmoud, 2007), which contains 2,507 real web services classified into 233 categories. The dataset can be obtained from: https://dl.acm.org/doi/abs/10.1145/1242572.1242795.
 
+The 233 service class groupings were generated using the text clustering method described in Liang et al. (2016), applied to the QWS dataset, following the same experimental setup as Yi et al.'s PPDRL framework. This clustering output is not redistributed here; users should generate it themselves by applying the clustering method to their own copy of the QWS dataset, or refer to the original PPDRL implementation.
+
 ## Usage
 ```bash
 python main.py
