@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-This project uses the QWS dataset (Al-Masri and Mahmoud, 2007), which contains 2,507 real web services classified into 233 categories. [Add a note here on where to obtain it, if not included directly.]
+This project uses the QWS dataset (Al-Masri and Mahmoud, 2007), which contains 2,507 real web services classified into 233 categories. The dataset can be obtained from: https://dl.acm.org/doi/abs/10.1145/1242572.1242795.
 
 ## Usage
 ```bash
